@@ -7,6 +7,7 @@ http://engineer.typemag.jp/keyperson/2012/07/matz.php
 
 藤本真樹氏×まつもとゆきひろ氏“Ruby”特別対談｜【Tech総研】
 ソーシャルサービスでのRuby. グリーでの取り組み
+
 http://rikunabi-next.yahoo.co.jp/tech/docs/ct_s03600.jsp?p=001927
 
 ##クラウドRuby
