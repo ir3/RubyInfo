@@ -19,6 +19,11 @@ http://el.jibun.atmarkit.co.jp/rails/2012/03/ruby-3574.html
 Rubyセンタ｜Ruby システム開発｜日立ソリューションズ
 http://www.hitachi-solutions.co.jp/ruby/
 
+「大手SIでも採用広がる」、日本OSS推進フォーラムがRuby事例集を公開
+http://itpro.nikkeibp.co.jp/article/NEWS/20110411/359299/
+
+
+
 ##組込みRuby
 軽量Ruby「mruby」技術紹介 | 東芝情報システム株式会社
 http://www.tjsys.co.jp/page.jsp?id=2998
