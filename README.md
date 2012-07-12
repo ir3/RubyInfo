@@ -1,7 +1,6 @@
-RubyInfo
+Ruby関連動向 RubyInfo
 ========
 
-#Ruby関連動向
 ##まつもとゆきひろ氏
 ｢コードの未来、エンジニアの未来｣まつもとゆきひろが語る、明暗2つのシナリオ
 http://engineer.typemag.jp/keyperson/2012/07/matz.php
